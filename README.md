@@ -19,7 +19,7 @@
 ### Public repo
 - Find the repo here: https://github.com/Mega-Awesome-Project/mega-awesome-project.protoco
 
-### Deployed contract
+### Deployed contracts
 
 - NameRegister: 
     - Rinkeby: https://rinkeby.etherscan.io/address/0xb517b4c83cc36c363207E2FB377c84d8c369d2b1#code
