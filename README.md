@@ -1,21 +1,23 @@
 # Mega Awesome Project
 
-## Dapp url: https://mega-wesome-project.herokuapp.com/
+## Dapp 
 
-## Workflow
+ ### url: https://mega-wesome-project.herokuapp.com/
+ ### Workflow
 
 - Connect your Rinknet work with your Metamask.
 - Be sure to have some Rinkeby ETH in your wallet to pay the transaction fees.
 - Enter the name that will be attached to your connected account.
 - The name you choose must be unique.
 
-## Local develpment
+### Local develpment
 
 - run: `yarn install`
 - run: `yarn start`
 - Enjoy!
 
 ## Protocol
+
 ### Public repo
 - Find the repo here: https://github.com/Mega-Awesome-Project/mega-awesome-project.protoco
 
