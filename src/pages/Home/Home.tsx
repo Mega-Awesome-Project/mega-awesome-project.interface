@@ -22,8 +22,7 @@ const FlexWrapper = styled(Box)`
 `
 
 const FlexCard = styled(Card)`
-    width: 50vw;
-    height: 50vh;
+    max-width: -webkit-fill-available;
 `
 
 const FlexRow = styled(Stack)`
@@ -108,7 +107,7 @@ const Home: React.FC = () => {
                         </Box>
                     </FlexRow>
                     <FlexRow>
-                        <Typography component="p">Address:</Typography>
+                        <Typography component="p" mr={1}>Address:</Typography>
                         <Box display={'flex'} alignItems={'center'}>
                             <Davatar size={24} address={account} generatedAvatarType='jazzicon' />
                             <Link 
